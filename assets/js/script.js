@@ -12,3 +12,5 @@ $(document).ready(function () {
         interval: 2000
     })
 })
+
+
